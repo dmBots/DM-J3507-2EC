@@ -6,15 +6,15 @@
 - Unverified details stay marked as `TBD` or `Translation pending`.
 
 ## Documentation / Resources
-- [Manual/](说明书/)
-- [2D Drawings/](2D图纸/)
-- [3D Model/](3D模型/)
-- [Performance Curves/](性能曲线/)
-- [Adapter Board/](转接板/)
+- [Manual/](Manual/)
+- [2D Drawings/](2D Drawings/)
+- [3D Models/](3D Models/)
+- [Performance Curves/](Performance Curves/)
+- [Adapter Boards/](Adapter Boards/)
 
 ## Quick Start
 - This folder does not define a separate quick-start flow.
-- Start with the [Manual/](说明书/).
+- Start with the [Manual/](Manual/).
 - Use the drawings, 3D model, performance curves, and adapter board as supporting references.
 
 ## Status

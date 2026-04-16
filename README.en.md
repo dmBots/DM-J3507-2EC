@@ -5,11 +5,11 @@
 - Use [README.md](README.md) as the current main entry for this subtree.
 
 ## Documentation / Resources
-- [Manual/](说明书/)
-- [2D Drawings/](2D图纸/)
-- [3D Model/](3D模型/)
-- [Performance Curves/](性能曲线/)
-- [Adapter Board/](转接板/)
+- [Manual/](Manual/)
+- [2D Drawings/](2D Drawings/)
+- [3D Models/](3D Models/)
+- [Performance Curves/](Performance Curves/)
+- [Adapter Boards/](Adapter Boards/)
 
 ## Quick Start
 - Translation pending.
